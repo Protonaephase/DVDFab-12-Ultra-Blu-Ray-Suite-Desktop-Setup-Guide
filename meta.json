@@ -1,0 +1,23 @@
+{
+  "repo": "dvdfab-12-ultra-blu-ray-suite-desktop-setup-guide",
+  "product": "DVDFab 12 Ultra Blu Ray Suite Desktop Setup Guide",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "dvdfab-12",
+    "blu-ray-copy",
+    "media-ripper",
+    "creator-lab",
+    "disc-to-digital",
+    "dvdfab-setup-failed-fix",
+    "how-to-install-dvdfab",
+    "dvdfab-windows",
+    "dvdfab-desktop-2026",
+    "dvdfab-desktop-package"
+  ],
+  "site": "toolix.me"
+}
